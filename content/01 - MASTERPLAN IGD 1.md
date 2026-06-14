@@ -1,5 +1,5 @@
 ---
-title: "MASTERPLAN IGD 1 — Buku Saku Stase Bedah"
+title: "01 — MASTERPLAN IGD 1"
 description: "GPS & blueprint materi IGD 1 untuk koas FKIK UIN Malang di RSUD Karsa Husada Batu. Sub-stase pertama — fondasi seluruh stase bedah."
 date: 2026-06-01
 tags:
@@ -15,7 +15,7 @@ aliases:
   - igd pertama
 ---
 
-# 📋 MASTERPLAN IGD 1 — BUKU SAKU STASE BEDAH
+# 📋 01 — MASTERPLAN IGD 1
 
 > **Taufiq · FKIK UIN Malang · RSUD Karsa Husada Batu · 2026**
 > *Sub-Stase Pertama — Fondasi Semua Stase Bedah*

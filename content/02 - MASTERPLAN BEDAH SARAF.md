@@ -1,5 +1,5 @@
 ---
-title: "MASTERPLAN BEDAH SARAF — Buku Saku Stase Bedah"
+title: "02 — MASTERPLAN BEDAH SARAF"
 description: "GPS & blueprint materi Bedah Saraf untuk koas FKIK UIN Malang di RSUD Karsa Husada Batu. Konsulen dr. Yoyok. Sub-stase kedua."
 date: 2026-06-01
 tags:
@@ -15,7 +15,7 @@ aliases:
   - saraf
 ---
 
-# 📋 MASTERPLAN BEDAH SARAF — BUKU SAKU STASE BEDAH
+# 📋 02 — MASTERPLAN BEDAH SARAF
 
 > **Taufiq · FKIK UIN Malang · RSUD Karsa Husada Batu · Konsulen: dr. Yoyok · 2026**
 > *Sub-Stase Kedua — Otak, Tulang Belakang, dan Keputusan yang Tidak Boleh Salah*

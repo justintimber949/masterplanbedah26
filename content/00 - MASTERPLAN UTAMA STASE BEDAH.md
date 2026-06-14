@@ -1,5 +1,5 @@
 ---
-title: "MASTERPLAN UTAMA — Stase Bedah Taufiq"
+title: "00 — MASTERPLAN UTAMA STASE BEDAH"
 description: "Dokumen induk & pusat navigasi seluruh stase bedah koas FKIK UIN Malang di RSUD Karsa Husada Batu. Titik awal semua sesi belajar."
 date: 2026-06-01
 tags:
@@ -15,7 +15,7 @@ aliases:
   - pusat navigasi
 ---
 
-# 🏥 MASTERPLAN UTAMA — STASE BEDAH
+# 🏥 00 — MASTERPLAN UTAMA STASE BEDAH
 
 > **Taufiq · FKIK UIN Malang · RSUD Karsa Husada Batu · 2026**
 
